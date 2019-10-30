@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35efe71a-9510-4ce9-9e43-c4e2be68ac2e" name="Default Changelist" comment="" />
+    <list default="true" id="35efe71a-9510-4ce9-9e43-c4e2be68ac2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DragDropdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ScrollingDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SwipeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/miscelleanous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gestures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gestures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gestures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gestures.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1SrIUHttQifcSVOLfkWZQjlOsQ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -43,23 +58,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.gestures">
-    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Base" />
+  <component name="RunManager" selected="Application.miscelleanous">
+    <configuration name="DragDropdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DragDropdemo" />
       <module name="AppiumTrainning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UIAutomatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UIAutomatorTest" />
+    <configuration name="ScrollingDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScrollingDown" />
       <module name="AppiumTrainning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics" />
+    <configuration name="SwipeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwipeDemo" />
       <module name="AppiumTrainning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,12 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="miscelleanous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miscelleanous" />
+      <module name="AppiumTrainning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.miscelleanous" />
+        <item itemvalue="Application.DragDropdemo" />
+        <item itemvalue="Application.ScrollingDown" />
+        <item itemvalue="Application.SwipeDemo" />
         <item itemvalue="Application.gestures" />
-        <item itemvalue="Application.UIAutomatorTest" />
-        <item itemvalue="Application.basics" />
-        <item itemvalue="Application.Base" />
       </list>
     </recent_temporary>
   </component>
@@ -93,5 +116,18 @@
       <updated>1572315301287</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
